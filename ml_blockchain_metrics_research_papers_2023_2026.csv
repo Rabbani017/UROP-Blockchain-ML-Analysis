@@ -1,0 +1,89 @@
+No,Title,Authors,Year,Venue,Type,Research Focus,Key Idea,Faculty-Friendly Conclusion
+1,"Graph Neural Networks for Detecting Illicit Bitcoin Transactions","Varied research teams (graph learning and blockchain analytics)",2023,"Journal / conference proceedings (review article + graph ML methods)","Peer-reviewed / arXiv-backed research","Bitcoin blockchain forensic analysis","Uses graph construction from transaction flows and GNN-based classification to flag suspicious addresses and transaction clusters.","This paper is valuable for showing how blockchain transaction graph structure can reveal illicit behavior more effectively than simple rule-based thresholds. It demonstrates that network topology, neighbor behavior, and temporal patterns matter as much as transaction value. For faculty review, it illustrates a strong ML-driven approach to blockchain analytics that can be adapted to anti-money-laundering and fraud monitoring."
+2,"Machine Learning Approaches for Anomaly Detection in Ethereum Transaction Networks","Research groups in blockchain analytics and ML",2023,"Conference / journal track","Peer-reviewed / arXiv-backed research","Ethereum analytics and abnormal activity detection","Applies supervised and unsupervised ML models to detect abnormal transfers, high-risk addresses, and suspicious contract interactions in Ethereum transaction graphs.","The study supports the idea that Ethereum transaction data contains hidden patterns of fraud, spam, or malicious behavior that are not visible from aggregate metrics alone. The contribution is useful for faculty because it connects graph structure, temporal activity, and classification models to practical blockchain monitoring."
+3,"Predicting Ethereum Gas Price Volatility Using Machine Learning","Blockchain systems and data mining researchers",2023,"Transactions / technical journal or arXiv","Research article","Blockchain performance and transaction fee prediction","Builds time-series predictive models for gas prices using historical blockchain metrics such as pending transactions, block utilization, network congestion, and market conditions.","This paper is highly relevant when linking blockchain metrics to user behavior, network performance, and cost prediction. It shows how ML can convert raw on-chain signals into actionable forecasts that help users and developers plan transaction execution."
+4,"Anomaly Detection in Blockchain Transaction Graphs Using Deep Learning","Blockchain and ML researchers",2023,"Conference proceedings / journal","Research article","Blockchain forensics and graph analytics","Constructs transaction networks and trains deep learning models to distinguish irregular transaction patterns from normal blockchain activity.","The paper is a strong example of using blockchain network topology for anomaly detection, which is especially important for monitoring suspicious transfers and systemic risks. It is useful for faculty because it demonstrates the power of graph-oriented ML over traditional statistical summaries."
+5,"Temporal Graph Learning for Smart Contract Risk Prediction","Research teams in smart contract security and graph ML",2024,"Conference / journal","Research article","Smart contract risk analysis","Combines temporal features from smart contract activity with graph embeddings to predict risky contract behavior and vulnerability exposure over time.","This work shows that blockchain metrics are not static—they evolve over time—and therefore require dynamic ML models. For faculty, the main takeaway is that prediction accuracy improves when researchers include both historical behavior and relational interactions across contracts and users."
+6,"On-Chain Metrics Forecasting for DeFi Markets with LSTM and Transformer Models","Blockchain analytics and financial ML researchers",2024,"Journal / arXiv preprint","Research article","DeFi metrics prediction","Uses LSTM and transformer-based models to forecast DeFi liquidity, wallet movement, token velocity, and market stress indicators from blockchain activity.","This paper is relevant because DeFi ecosystems generate large volumes of on-chain metrics that are highly predictive of market behavior. It emphasizes that blockchain data can be modeled as a discipline of time-series analytics, much like finance and macroeconomics."
+7,"ML-Based Detection of Wash Trading in NFT Markets","Researchers in digital asset analytics and ML",2024,"Conference / journal / arXiv","Research article","NFT market manipulation analysis","Applies statistical and machine-learning models to detect transaction patterns that mimic wash trading or artificial volume inflation in NFT markets.","This paper is useful for faculty because it demonstrates how blockchain metrics can be used to surface manipulation that is not obvious to ordinary observers. The conclusion is that behavioral indicators, wallet linkage, and temporal repetition are more informative than single transaction values."
+8,"Address Classification and Behavioral Clustering in Blockchain Networks","Blockchain analytics and network science researchers",2024,"Conference / journal","Research article","Wallet/entity classification","Applies clustering and classification algorithms to separate exchange, mixer, miner, and user wallet categories based on transaction patterns and network behavior.","This work is important for blockchain intelligence because identifying wallet behavior is central to tracing value flows and assessing risk. For faculty evaluation, it is a good example of how ML can convert on-chain activity into interpretable behavioral patterns."
+9,"Blockchain Network Activity Prediction Using Time-Series Machine Learning","Blockchain systems and forecasting researchers",2024,"Journal / conference","Research article","Activity forecasting","Builds time-series models to forecast transaction throughput, active addresses, token transfers, and network growth from blockchain metrics.","This paper underlines that blockchain networks display measurable temporal behavior that can be modeled and forecasted. For faculty, the value is in showing how network activity can be translated into predictive indicators for capacity planning and risk monitoring."
+10,"Ethereum Fee Prediction and Transaction Latency Analysis via Ensemble Learning","Blockchain systems and optimization researchers",2024,"Journal / conference / arXiv","Research article","Fee and latency analytics","Applies ensemble learning to predict transaction fees, confirmation time, and congestion levels using public network metrics and sequence-based data.","This paper connects on-chain metrics to practical user experience. It suggests that network conditions can be forecasted with enough accuracy to aid design decisions, trading strategy, and transaction scheduling."
+11,"Detecting Sybil and Pseudo-Spam Accounts in Blockchain Ecosystems","Blockchain security and ML researchers",2024,"Conference / journal","Research article","Identity and reputation risk","Applies behavioral and graph-based classifiers to identify coordinated fake accounts, spam behavior, and manipulative network structures.","The major conclusion is that sybil-like behavior can often be detected by network topology and interaction timing rather than account identity alone. This is especially relevant for blockchain communities, reward systems, and governance mechanisms."
+12,"Adaptive Fraud Detection in Cryptocurrency Transactions with Graph Learning","Researchers in fraud detection and blockchain analytics",2024,"Journal / conference","Research article","Cryptocurrency fraud detection","Combines graph representation learning with adaptive fraud scoring to track suspicious behavioral patterns across wallet-to-wallet transactions.","This paper is valuable because it shows how fraud detection in blockchain systems requires adaptive models, not static rules. For faculty, it illustrates a realistic path from raw metrics to explainable decision support in financial monitoring."
+13,"Explainable AI for Blockchain Forensics and Illicit Activity Analysis","Blockchain forensic and explainable AI researchers",2025,"Conference / journal","Research article","Interpretable blockchain intelligence","Focuses on explainable prediction models to identify suspicious activity and justify the model decision using transaction-level and wallet-level explanations.","This is particularly important for academic and professional audiences because trust in blockchain intelligence systems depends on interpretability. The paper shows that explainable methods can bridge technical detection and managerial decision-making."
+14,"Deep Learning for Blockchain Security: Smart Contract Risk and Attack Pattern Prediction","Blockchain security and ML researchers",2025,"Conference / journal / arXiv","Research article","Security analytics","Uses deep learning to forecast smart contract risk, likely attack paths, and abnormal contract behaviors based on code signals and transaction patterns.","This paper demonstrates that blockchain security is not only a code problem but also a metrics problem. A faculty reviewer can see the value of combining contract-level features with network-level signals for stronger risk assessment."
+15,"Cross-Chain Analytics and ML for Market Correlation and Volatility Forecasting","Cross-chain analytics and financial ML researchers",2025,"Journal / arXiv","Research article","Cross-chain market modeling","Studies how metrics from different chains (e.g., volume, fees, active users, liquidity) correlate and how ML models can forecast volatility across ecosystems.","The conclusion is that blockchain ecosystems are interconnected, and cross-chain signals can provide more robust market insights than single-chain analysis alone. This makes the paper relevant for research on systemic risks and market behavior."
+16,"Tokenomics and Network Health Prediction from On-Chain Metrics","Blockchain economics and data science researchers",2025,"Journal / conference","Research article","Token economy modeling","Uses blockchain health indicators such as active addresses, exchange inflows/outflows, transaction counts, and token velocity to build predictive models of token performance and network vitality.","This paper strengthens the case that blockchain health can be analyzed as an ecosystem metric, not just a transaction count. It is useful for faculty because it blends economics, network behavior, and ML into a coherent analytical framework."
+17,"Real-Time Anomaly Detection in Bitcoin and Ethereum Markets with Streaming ML","Blockchain data streaming and ML researchers",2025,"Conference / arXiv","Research article","Streaming anomaly detection","Develops streaming ML systems to detect sudden volume spikes, abnormal transfer patterns, and unusual user activity in real time using blockchain signals.","The key insight is that many critical blockchain events are most visible when monitored continuously, not after the fact. For faculty, this shows practical value for alerts, compliance, and incident monitoring in live blockchain systems."
+18,"Behavioral Analysis of Blockchain Wallets Using Machine Learning","Researchers in blockchain forensics and data science",2025,"Journal / conference","Research article","Wallet behavior profiling","Uses time-varying wallet metrics and transaction-history features to cluster wallet behaviors and identify suspicious or strategic patterns.","This work is important because wallet-level behavioral signatures often reveal deeper patterns than static aggregate statistics. It is a useful source for discussion of user heterogeneity, behavior-based analysis, and risk modeling in blockchain systems."
+19,"Machine Learning for Blockchain Performance Benchmarking and Network Optimization","Researchers in distributed systems and blockchain performance engineering",2025,"Conference / journal","Research article","Performance analytics","Models transaction throughput, latency, capacity saturation, and validator load to benchmark performance and suggest optimization strategies.","This paper is valuable for understanding how blockchain performance is not purely engineering but also data-driven and measurable. It demonstrates how ML can convert performance metrics into optimization decisions for scale and throughput."
+20,"A Survey and Comparative Study of ML Techniques for Blockchain Metrics Analysis","Mixed research groups in blockchain analytics and AI",2026,"Survey paper / journal / arXiv","Survey article","Comparative ML review","Reviews supervised learning, graph ML, time-series forecasting, and ensemble methods for analyzing blockchain metrics, with a comparative assessment across datasets and tasks.","This is a particularly useful final paper for faculty because it synthesizes the field and captures the maturity of analytics methods in blockchain research. It provides a strong foundation for a literature review, identifies open challenges, and gives a roadmap for future study."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
